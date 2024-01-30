@@ -1,0 +1,40 @@
+.itemN {
+    font-size: 24px;
+}
+
+body {
+    
+    background-image: url("../img/tortuga.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.slogan {
+    padding: 7px;
+    font-size: 40px;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+.seccEslogan {
+    
+    display: grid;
+    place-items: center;
+    margin-top: 200px;
+}
+
+.subtitulo {
+    padding: 5px;
+    font-size: 23px;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+.body {
+    background-color: rgb(0, 166, 255);
+}
+
+img {
+    width: 80px;
+}
